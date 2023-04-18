@@ -1,1 +1,3 @@
-# .github
+# Some Team
+
+Developing Discord Bots!
